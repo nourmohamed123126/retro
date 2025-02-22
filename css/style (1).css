@@ -1,0 +1,74 @@
+body{
+    background-color: #E8D599;
+    font-family: garamond;
+}
+.header{
+    text-align: center;
+    color: #522815;
+    font-weight: 900;
+    font-size: 30px;
+    padding: 10px 0px;
+}
+.nav-link {
+    display: block;
+    font-size:20px;
+    color: #E4C36C;
+}
+.navbar-brand{
+    color:#C6A14F;
+    font-weight: 500;
+    font-size: 30px;
+}
+.navbar {
+    --bs-navbar-hover-color:#E8D599;
+    --bs-navbar-brand-hover-color:#E8D599 ;
+    background-color: #522815;
+}
+.who_we_are{
+    background-color: #e2c57b;
+    
+    margin: 50px;
+    height: 100x;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
+    padding: 10px;
+}
+
+.why_box-container {
+    display: grid;
+    grid-row: auto;
+    justify-content: center; 
+    gap: 10px;
+    padding: 20px;
+}
+.why{
+    background-color: #70371D;
+    border-radius: 15px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
+    padding: 10px;
+    color: #e2c57b;
+}
+.team{
+    width: 300px;
+    height: 300px;
+    border-radius: 50px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
+    margin: 20px;
+}
+.font_color{
+    color: #70371D;
+    font-family: Garamond;
+    padding: 5px;
+}
+.footer{
+    text-align: center;
+    background-color: #522815;
+    color: #C6A14F;
+    padding: 20px;
+ 
+}
+.footer-logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

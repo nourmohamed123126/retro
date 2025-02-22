@@ -1,0 +1,42 @@
+body{
+    background: linear-gradient(87.4deg, rgb(255, 241, 165) 1.9%, rgb(200, 125, 76) 49.7%, rgb(83, 54, 54) 100.5%);
+}
+.contact_text{
+    padding: 90px;
+}
+.icons{
+    font-size: 100px;
+}
+.font_color{
+    color: #70371D;
+    font-family: Garamond;
+}  
+a{
+    color: #70371D;
+}
+.footer{
+    text-align: center;
+    background-color: #522815;
+    color: #C6A14F;
+    padding: 20px;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    left: 0;
+}
+.footer-logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+p{
+    font-family: garamond;
+    font-size: 25px;
+}
+h1{
+    font-family: garamond;
+    
+}
+nav{
+    font-family: garamond;
+}

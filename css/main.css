@@ -1,0 +1,83 @@
+body{
+    font-family: garamond;
+}
+.home{
+    background-image: url(../images/bghomepage.avif);
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+}
+.info{
+    color: #E4C36C;
+    font-size: 100px;
+    text-shadow: #000 2px 3px;
+}
+.container{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 15%;
+}
+.nav-link {
+    display: block;
+    font-size:20px;
+    color: #E4C36C;
+}
+.navbar-brand{
+    color:#C6A14F;
+    font-weight: 500;
+    font-size: 30px;
+}
+.navbar {
+    --bs-navbar-hover-color:#E8D599;
+    --bs-navbar-brand-hover-color:#E8D599 ;
+}
+.para{
+    color: #C6A14F;
+    font-size: 25px;
+    text-shadow: #000 2px 1px;
+}
+.join-us{
+    background-color: #E4C36C;
+    color: #000;
+    padding: 20px;
+    border-radius: 9999px;
+    text-decoration: none;
+    font-size: 25px;
+}
+.services{
+    display: flex;
+    padding: 50px;
+    background-color: #e2c57b;
+}
+.service-content{
+    width: 50%;
+    font-size: 30px;
+}
+.service-img{
+   width: 50%;
+   border-radius: 5px;
+}
+.service-img img{
+    border-radius: 5px;
+}
+.service-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: #70371D;
+}
+.service-content a{
+    color: #70371D;
+}
+.footer{
+    text-align: center;
+    background-color: #522815;
+    color: #C6A14F;
+    padding: 20px;
+}
+.footer-logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
